@@ -1,0 +1,4 @@
+# Never commit real credentials
+whatsapp_notify.config.php
+*.local.php
+.env

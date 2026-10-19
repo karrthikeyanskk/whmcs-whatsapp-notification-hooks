@@ -10,7 +10,7 @@ Free, open-source WHMCS hook file that sends **WhatsApp Cloud API template messa
 
 It is a single PHP file you drop into `includes/hooks/`. No addon, no database migration, no external service other than Meta's WhatsApp Business Platform.
 
-**Full step-by-step guide:** [How to Add WhatsApp Notifications to WHMCS (Step by Step)](https://dev.to/shohost/how-to-add-whatsapp-notifications-to-whmcs-step-by-step-nm5)
+**Want ready-made WhatsApp notifications for WHMCS?** See the [ShoHost WHMCS WhatsApp Module](https://shohost.com/whmcs-whatsapp-module) for setup details, features and pricing.
 
 ## Features
 
